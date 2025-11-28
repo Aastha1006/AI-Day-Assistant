@@ -101,9 +101,9 @@ http://localhost:8501
 Example:
 
 ![Home Page](assests/home.png.png)
-* AI summary card
-* Task planner UI
-* Celebration screen
+![Task Page](assests/task.png.png)
+![Summary Page](assests/summary.png.png)
+![Message Page](assests/celebration.png.png)
 
 ---
 
