@@ -1,0 +1,23 @@
+[
+  {
+    "text": "study",
+    "type": "Learning/Research",
+    "priority": "High",
+    "estimate": "1–2 hours",
+    "completed": true
+  },
+  {
+    "text": "error solving",
+    "type": "Bug fix",
+    "priority": "Low",
+    "estimate": "1–2 hours",
+    "completed": false
+  },
+  {
+    "text": "deploy",
+    "type": "DevOps/Deployment",
+    "priority": "Medium",
+    "estimate": "2–4 hours",
+    "completed": false
+  }
+]
