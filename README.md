@@ -100,8 +100,7 @@ http://localhost:8501
 
 Example:
 
-*![Home Page](assests/home.png).png
-)
+![Home Page](assests/home.png.png)
 * AI summary card
 * Task planner UI
 * Celebration screen
