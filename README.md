@@ -98,9 +98,10 @@ http://localhost:8501
 
 ## 🧪 Demo (Screenshots)
 
-(Add 2–3 screenshots of your UI here once pushed to GitHub.)
 Example:
 
+*![Home Page](assests/home.png
+)
 * AI summary card
 * Task planner UI
 * Celebration screen
